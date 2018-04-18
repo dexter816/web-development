@@ -1,0 +1,1 @@
+define(["idcta/apiUtils"],function(a){return{translation_signedout:"Sign in",translation_signedin:"Your account",useOverlay:false,ptrt:window.location.href,locale:null,policyname:null,fallback:true}});
